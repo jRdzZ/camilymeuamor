@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Pacifico&display=swap');
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    background-image: url("coração1.jpg");
+}
+
+.texto {
+    border-bottom: 10px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Pacifico', cursive;
+    background-color:  #E66BE8  ;
+    margin: 2px;
+}
+
+.img {
+    border: 5px solid #FA99FC;
+    border-radius: 10px;
+    
+}
+
+.p {
+    background-color: white;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+
+.botao {
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+
+}
